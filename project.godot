@@ -11,6 +11,5 @@ config_version=5
 [application]
 
 config/name="Archipelago_proj"
-run/main_scene="uid://c3g5ysivt2pmd"
 config/features=PackedStringArray("4.4", "Forward Plus")
 config/icon="res://icon.svg"
